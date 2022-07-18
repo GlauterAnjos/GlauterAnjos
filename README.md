@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm looking for my first opportunity as a Front End Developer. My previous experience was working as a Paid Traffic Manager in my own company, cashier and packer in a supermarket<br>I have some projects you can take a look at.</h4>
+<h4 align="left">I'm looking for my first opportunity as a Front End Developer.<br>I have some projects you can take a look at.</h4>
 
 ###
 
